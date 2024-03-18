@@ -23,5 +23,5 @@ Bu projeler ve daha fazlası hakkında daha fazla bilgi edinmek istiyorsanız, G
 
 Yapay zeka ve makine öğrenmesi projeleri hakkında fikir alışverişi yapmak, işbirliği teklifleriniz veya herhangi bir sorunuz için lütfen benimle iletişime geçin. Yenilikçi projelerde yer almak ve bu heyecan verici alanda bilgimi genişletmek için sabırsızlanıyorum.
 
-- LinkedIn: [xatren](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/)
 - E-posta: emircanyuksel24.com
