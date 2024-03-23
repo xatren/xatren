@@ -74,6 +74,28 @@ Yapay zeka ve makine öğrenmesi alanında geliştirdiğim projelerden bazılar�
 
 Daha fazla bilgi ve projeler için GitHub profilimi ziyaret edebilirsiniz: [xatren's GitHub](https://github.com/xatren)
 
+## 📜 Sertifikalar
+
+Bu bölüm, kariyer yolculuğumda kazandığım önemli sertifikaları ve başarıları içerir. Bu sertifikalar, sürekli öğrenme taahhüdümü ve ilgi alanlarımı yansıtmaktadır.
+
+- **Derin Öğrenme Uzmanlığı** - Coursera
+  - Yıl: 2023
+  - Açıklama: Derin öğrenme teorisi ve uygulamaları üzerine kapsamlı bir kurs. Projelerde CNN, RNN ve GAN modellerinin uygulanması öğretildi.
+  - [Sertifika Linki](#)
+
+- **Makine Öğrenmesi** - Udacity
+  - Yıl: 2022
+  - Açıklama: Makine öğrenmesi algoritmaları ve büyük veri işleme teknikleri üzerine yoğun bir nano derece programı.
+  - [Sertifika Linki](#)
+
+- **Python Veri Bilimi ve Analizi** - DataCamp
+  - Yıl: 2021
+  - Açıklama: Python kullanarak veri bilimi ve analizi temelleri. Pandas, NumPy ve Matplotlib kütüphaneleri ile çalışma deneyimi kazandırıldı.
+  - [Sertifika Linki](#)
+
+Bu sertifikalar ve daha fazlası, sürekli öğrenmeye ve alanımdaki en son gelişmeleri takip etmeye olan bağlılığımı göstermektedir.
+
+
 ## 📬 İletişim
 
 Yapay zeka ve makine öğrenmesi projeleri hakkında fikir alışverişi yapmak, işbirliği teklifleriniz veya herhangi bir soru için lütfen benimle iletişime geçin. Yenilikçi projelerde yer almak ve bu heyecan verici alanda bilgimi genişletmek için sabırsızlanıyorum.
