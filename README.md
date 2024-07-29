@@ -51,5 +51,6 @@ For discussions on AI and machine learning projects, collaboration offers, or an
 ![xatren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xatren&theme=nord&hide_border=true)
 
 
-
+![xatren's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xatren&langs_count=15)
 ![xatren's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xatren&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
