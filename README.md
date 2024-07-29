@@ -45,70 +45,11 @@ For discussions on AI and machine learning projects, collaboration offers, or an
 </p>
 
 
-
-# Merhaba, Ben Emircan Yüksel
-
-Hoş geldiniz! Benim dünyama bir pencere açmaya hazır mısınız? Yapay zeka, makine öğrenmesi ve veri bilimi yolculuğumda sizleri de yanımda görmekten mutluluk duyarım.
-
-## 📘 İçindekiler
-
-- [Hakkımda](#hakkımda)
-- [Projelerim](#projelerim)
-- [İletişim](#iletişim)
-- [Kullandığım Diller ve Araçlar](#kullandığım-diller-ve-araçlar)
-
-## 🙋‍♂️ Hakkımda
-
-- 👋 Selam, ben **Emircan Yüksel**.
-- 👀 Yapay zeka, makine öğrenmesi ve veri bilimi alanlarında büyük bir tutkuyla çalışıyorum. Bu yolculukta yeni teknolojiler öğrenmek ve kendimi sürekli geliştirmek benim için vazgeçilmez.
-- 🌱 Şu sıralar **Python**, **TensorFlow** ve **PyTorch** kullanarak derin öğrenme modelleri üzerine yoğunlaşmış durumdayım. Aynı zamanda büyük veri analizi ve işleme konularında da bilgimi artırma peşindeyim.
-- 💞️ Yapay zeka tabanlı projelerde işbirliği yapmak ve bilgi alışverişinde bulunmak isteyen herkesle çalışmaya açığım.
-- 📫 Bana ulaşmak mı istiyorsunuz? LinkedIn veya e-posta yoluyla her zaman bana ulaşabilirsiniz: [LinkedIn](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/) / E-posta: emircanyuksel24.com
-
-## 🚀 Projelerim
-
-Yapay zeka ve makine öğrenmesi alanında geliştirdiğim projelerden bazıları:
-
-1. **Film Tavsiye Sistemi**: Kullanıcıların tercihleri ve izleme alışkanlıklarına dayanarak kişiselleştirilmiş film önerileri sunar. Korelasyon matrisi temelli bir yaklaşım kullanılır.
-2. **İş Başvurusu Karar Sistemi**: Adayların eğitim, iş tecrübesi ve önceki staj deneyimleri gibi faktörleri değerlendirerek uygunluğunu tahmin eden bir karar ağacı modelidir.
-
-Daha fazla bilgi ve projeler için GitHub profilimi ziyaret edebilirsiniz: [xatren's GitHub](https://github.com/xatren)
-
-## 📜 Sertifikalar
-
-Bu bölüm, kariyer yolculuğumda kazandığım önemli sertifikaları ve başarıları içerir. Bu sertifikalar, sürekli öğrenme taahhüdümü ve ilgi alanlarımı yansıtmaktadır.
-
-- **Derin Öğrenme Uzmanlığı** - Coursera
-  - Yıl: 2023
-  - Açıklama: Derin öğrenme teorisi ve uygulamaları üzerine kapsamlı bir kurs. Projelerde CNN, RNN ve GAN modellerinin uygulanması öğretildi.
-  - [Sertifika Linki](#)
-
-- **Makine Öğrenmesi** - Udacity
-  - Yıl: 2022
-  - Açıklama: Makine öğrenmesi algoritmaları ve büyük veri işleme teknikleri üzerine yoğun bir nano derece programı.
-  - [Sertifika Linki](#)
-
-- **Python Veri Bilimi ve Analizi** - DataCamp
-  - Yıl: 2021
-  - Açıklama: Python kullanarak veri bilimi ve analizi temelleri. Pandas, NumPy ve Matplotlib kütüphaneleri ile çalışma deneyimi kazandırıldı.
-  - [Sertifika Linki](#)
-
-Bu sertifikalar ve daha fazlası, sürekli öğrenmeye ve alanımdaki en son gelişmeleri takip etmeye olan bağlılığımı göstermektedir.
+![xatren's Stats](https://github-readme-stats.vercel.app/api?username=xatren&theme=nord&show_icons=true&hide_border=true&count_private=false)
 
 
-## 📬 İletişim
+![xatren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xatren&theme=nord&hide_border=true)
 
-Yapay zeka ve makine öğrenmesi projeleri hakkında fikir alışverişi yapmak, işbirliği teklifleriniz veya herhangi bir soru için lütfen benimle iletişime geçin. Yenilikçi projelerde yer almak ve bu heyecan verici alanda bilgimi genişletmek için sabırsızlanıyorum.
 
-- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/)
-- E-posta: emircanyuksel24.com
 
-## 💻 Kullandığım Diller ve Araçlar
-
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+![xatren's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xatren&theme=nord&show_icons=true&hide_border=true&layout=compact)
