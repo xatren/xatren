@@ -16,7 +16,7 @@ Welcome! Are you ready to open a window into my world? I'd be delighted to have 
 - 👀 I'm deeply passionate about artificial intelligence, machine learning, and data science. On this journey, learning new technologies and continuously improving myself are indispensable to me.
 - 🌱 Currently, I'm focusing on developing deep learning models using **Python**, **TensorFlow**, and **PyTorch**. I'm also keen on expanding my knowledge in big data analysis and processing.
 - 💞️ I'm open to collaborating and sharing knowledge with anyone interested in AI-based projects.
-- 📫 Want to reach out? You can always contact me via LinkedIn or email: [LinkedIn](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/) / Email: emircanyuksel24.com
+- 📫 Want to reach out? You can always contact me via LinkedIn or email: [LinkedIn](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/) / Email: emircanyuksel24@gmail.com
 
 ## 🚀 My Projects
 
@@ -32,7 +32,7 @@ For more information and projects, visit my GitHub profile: [xatren's GitHub](ht
 For discussions on AI and machine learning projects, collaboration offers, or any questions, please don't hesitate to get in touch. I'm eager to participate in innovative projects and expand my knowledge in this exciting field.
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/)
-- Email: emircanyuksel24.com
+- Email: emircanyuksel24@gmail.com
 
 ## 💻 Languages and Tools
 
