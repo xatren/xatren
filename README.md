@@ -44,13 +44,10 @@ For discussions on AI and machine learning projects, collaboration offers, or an
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+![xatren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xatren&theme=nord&hide_border=true)
 
 ![xatren's Stats](https://github-readme-stats.vercel.app/api?username=xatren&theme=nord&show_icons=true&hide_border=true&count_private=false)
 
 
-![xatren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xatren&theme=nord&hide_border=true)
 
-
-![xatren's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xatren&langs_count=15)
-![xatren's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xatren&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
