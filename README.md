@@ -30,9 +30,6 @@ For discussions on AI and machine learning projects, collaboration offers, or an
 
 ![xatren's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xatren&theme=nord&hide_border=true)
 
-![xatren's Stats](https://github-readme-stats.vercel.app/api?username=xatren&theme=nord&show_icons=true&hide_border=true&count_private=false)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xatren&label=Profile%20views&color=0e75b6&style=flat" alt="xatren" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xatren" alt="xatren" /></a> </p>
