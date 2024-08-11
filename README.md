@@ -18,15 +18,6 @@ Welcome! Are you ready to open a window into my world? I'd be delighted to have 
 - 💞️ I'm open to collaborating and sharing knowledge with anyone interested in AI-based projects.
 - 📫 Want to reach out? You can always contact me via LinkedIn or email: [LinkedIn](https://www.linkedin.com/in/emircan-y%C3%BCksel-3741292b1/) / Email: emircanyuksel24@gmail.com
 
-## 🚀 My Projects
-
-Some of the projects in artificial intelligence and machine learning I've worked on:
-
-1. **Movie Recommendation System**: Offers personalized movie suggestions based on users' previous watch histories and ratings. Utilizes a correlation matrix for recommendations.
-2. **Job Application Decision System**: A decision tree model that evaluates candidates' suitability based on factors such as education, work experience, and previous internships.
-
-For more information and projects, visit my GitHub profile: [xatren's GitHub](https://github.com/xatren)
-
 ## 📬 Contact
 
 For discussions on AI and machine learning projects, collaboration offers, or any questions, please don't hesitate to get in touch. I'm eager to participate in innovative projects and expand my knowledge in this exciting field.
